@@ -12,5 +12,5 @@ catkin_make
 source devel/setup.sh
 
 # you need to put the map built by Hector SLAM into src/amcl_launch/maps
-roslaunch amcl_launch amcl_networking.launch map:=<build-map>.yaml
+roslaunch navigation_launch navigation_networking.launch map:=<build-map>.yaml
 ```
