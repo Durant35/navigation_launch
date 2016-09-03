@@ -4,7 +4,7 @@ smart car navigation launch files on PC
 ## How to use it
 ```shell
 cd ~/catkin_ws/src
-git clone cd https://github.com/Durant35/navigation_launch.git
+git clone https://github.com/Durant35/navigation_launch.git
 
 cd ..
 catkin_make
